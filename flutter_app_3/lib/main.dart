@@ -3,7 +3,6 @@
 // found in the LICENSE file.
 
 import 'package:flutter/material.dart';
-
 import 'common/strings.dart' as strings;
 import 'screens/home_screen.dart';
 
